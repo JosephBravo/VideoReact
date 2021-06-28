@@ -1,4 +1,14 @@
+@import "./Vars.scss";
+@import "./Media.scss";
+
+
 body {
-    background-color: red;
-    color: white;
+  margin: 0;
+  font-family: 'Muli', sans-serif;
+  background: #8f57fd;
+  background: $main-color;
+}
+
+* {
+  box-sizing: border-box;
 }

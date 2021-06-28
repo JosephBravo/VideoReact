@@ -11,13 +11,15 @@ module.exports={
     resolve:{
         extensions: ['.js', '.jsx']
     },
+    devtool: 'eval-source-map',
     module:{
         rules:[
             {
                 test: /\.(js|jsx)$/,
                 exclude: /node_modules/,
+                
                 use:{
-                    loader: "babel-loader"
+                    loader: "babel-loader",
                 }
             },
             {
@@ -40,10 +42,23 @@ module.exports={
                     'sass-loader',
                 ],
             },
+            {
+                test: /\.(png|gif|jpg)$/,
+                use: [
+                    {
+                        loader: 'file-loader',
+                        options: { name: 'assets/[hash].[ext]' },
+
+                    },
+ 
+                ],
+            },
+            
 
         ]
         
     },
+    devtool: "source-map",
     plugins:[
         new HtmlWebPackPlugin({
             template: './public/index.html',
@@ -53,5 +68,6 @@ module.exports={
         new MiniCssExtractPlugin({
             filename: 'assets/[name].css',
           }),
+          
     ]
 };
