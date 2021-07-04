@@ -59,6 +59,9 @@ module.exports={
         
     },
     devtool: "source-map",
+    devServer: {  
+        historyApiFallback: true,  
+    },
     plugins:[
         new HtmlWebPackPlugin({
             template: './public/index.html',

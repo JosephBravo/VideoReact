@@ -91,9 +91,9 @@
           "year": 2012,
           "contentRating": "16+",
           "duration": 148,
-          "cover": "http://dummyimage.com/800x600.png/306880/ffffff",
+          "cover": "https://images.unsplash.com/photo-1484399172022-72a90b12e3c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
           "description": "Vestibulum ac est lacinia nisi venenatis tristique",
-          "source": "https://images.pexels.com/photos/1666779/pexels-photo-1666779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260  "
+          "source": "https://images.pexels.com/photos/1666779/pexels-photo-1666779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         },
         {
           "id": 9,
@@ -104,7 +104,7 @@
           "year": 2019,
           "contentRating": "16+",
           "duration": 128,
-          "cover": "http://dummyimage.com/800x600.png/604180/ffffff",
+          "cover": "https://images.unsplash.com/photo-1572679079418-de9c4361425d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80",
           "description": "Vestibulum ac est lacinia nisi venenatis tristique",
           "source": "https://images.pexels.com/photos/413879/pexels-photo-413879.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=750&w=1260"
         },
@@ -117,7 +117,7 @@
           "year": 2011,
           "contentRating": "16+",
           "duration": 346,
-          "cover": "http://dummyimage.com/800x600.png/FF91BA/ffffff",
+          "cover": "https://images.unsplash.com/photo-1477414876610-1ec826f2e689?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
           "description": "Vestibulum ac est lacinia nisi venenatis tristique",
           "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
         },
@@ -130,7 +130,7 @@
           "year": 2015,
           "contentRating": "16+",
           "duration": 226,
-          "cover": "http://dummyimage.com/800x600.png/45807C/ffffff",
+          "cover": "https://images.unsplash.com/photo-1460904577954-8fadb262612c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3340&q=80",
           "description": "Vestibulum ac est lacinia nisi venenatis tristique",
           "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
         },
@@ -143,7 +143,7 @@
           "year": 2018,
           "contentRating": "16+",
           "duration": 190,
-          "cover": "http://dummyimage.com/800x600.png/577380/ffffff",
+          "cover": "https://images.unsplash.com/photo-1494447122076-9e353e4dfd0f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80",
           "description": "Vestibulum ac est lacinia nisi venenatis tristique",
           "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
         },
@@ -156,7 +156,7 @@
           "year": 2010,
           "contentRating": "16+",
           "duration": 160,
-          "cover": "http://dummyimage.com/800x600.png/5472FF/ffffff",
+          "cover": "https://images.unsplash.com/photo-1586991359975-54500b7d8a86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
           "description": "Vestibulum ac est lacinia nisi venenatis tristique",
           "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
         }

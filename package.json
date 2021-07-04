@@ -14,7 +14,10 @@
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "redux": "^4.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.3",
@@ -34,9 +37,9 @@
     "mini-css-extract-plugin": "^1.6.0",
     "node-sass": "^6.0.0",
     "sass-loader": "^11.1.1",
+    "source-map-loader": "^1.0.0",
     "webpack": "^5.37.1",
     "webpack-cli": "^4.7.0",
-    "webpack-dev-server": "^3.11.2",
-    "source-map-loader": "^1.0.0"
+    "webpack-dev-server": "^3.11.2"
   }
 }
